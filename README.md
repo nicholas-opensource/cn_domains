@@ -1,4 +1,4 @@
-# cn_domains
+# CN_Domains
 List of Chinese domains
 
 * Bilibili
@@ -8,7 +8,7 @@ List of Chinese domains
 
 * Updating...
 
-For SSRP users:
+For SSRP users: (Remember to switch running mode to the **GFWList Mode** and refresh **GFW List Data**  
 ```
 cat > /etc/ssrplus/gfw_base.conf <<EOF
 ipset=/baidu.com/gfwlist
